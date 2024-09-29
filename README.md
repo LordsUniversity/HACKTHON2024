@@ -22,7 +22,7 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 
 -->
 
-### Are all of your team members registered on our [Hackathon Signup page](https://apwr.dev/htf24-hackathon)?
+### Are all of your team members registered on our [Hackathon Signup page]()?
 _This is a mandatory step for all participants to be considered eligible for judging_
 
 - [ ] Yes
